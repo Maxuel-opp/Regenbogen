@@ -1,0 +1,4 @@
+Die Farbe des Regenbogens:
+- gelb
+- rot
+- violett
